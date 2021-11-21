@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image: linear-gradient(to right, #CCA049, #ADA049, #E2E62C);
+    margin-bottom: 0 !important;
+}
+
+
+
+.navbar{
+    background-image: linear-gradient(to right, #6B57AD, #4971AD, #9121FF );
+    margin-top: 0 !important;
+    border: 0 !important;
+    margin-bottom: 15px;
+    }
+
+
+    
+body{
+    background-color: #EBDAB8;
+
+}
